@@ -1,0 +1,10 @@
+Warning[2103] D:\Workspace\Code\vxl\dacn\main.c 153 : default startup code expects main function declared as 'void main (void)'
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 171 : type qualifier mismatch in assignment
+Warning[2058] D:\Workspace\Code\vxl\dacn\main.c 189 : call of function without prototype
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 198 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 199 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 220 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 225 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 234 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 239 : type qualifier mismatch in assignment
+Warning[2066] D:\Workspace\Code\vxl\dacn\main.c 244 : type qualifier mismatch in assignment
